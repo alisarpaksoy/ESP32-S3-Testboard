@@ -1,0 +1,21 @@
+# KiCad backup files
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+_autosave-*
+
+# KiCad rescue files
+*-rescue.lib
+*-rescue.dcm
+
+# Local system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
